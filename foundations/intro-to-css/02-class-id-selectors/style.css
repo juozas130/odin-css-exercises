@@ -1,0 +1,15 @@
+.text-group {
+    background-color: rgb(255,179,191);
+    font-family: "verdana", "DejaVu Sans", sans-serif;
+}
+.unique {
+    font-size: 24px;
+}
+#member-1 {
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+#member-2 {
+    background-color: rgb(111, 255, 111);
+    font-weight: bold;
+}
